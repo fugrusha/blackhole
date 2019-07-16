@@ -1,0 +1,320 @@
+{ 
+	"type": "FeatureCollection",
+	"features": [
+			{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2535,
+			50.5963
+			]
+		},
+		"properties": {
+			"Client": "А-Трейд Лімітед",
+			"ID_TT": "8000018469823",
+			"Address": "Київська обл., м.Ірпінь, вул. Джерельна 6"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2140,
+			50.5189
+			]
+		},
+		"properties": {
+			"Client": "А-Трейд Лімітед",
+			"ID_TT": "8000017599120",
+			"Address": "Київська обл., м.Ірпінь, вул. Мечнікова 118 Живе пиво ."
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2395,
+			50.5186
+			]
+		},
+		"properties": {
+			"Client": "Ахмедлі Заур Халаддін Огли",
+			"ID_TT": "8000015003350",
+			"Address": "Київська обл., м.Ірпінь, вул. Ново Оскольська 0 (між садибами №6-№8 торгівельний павільйон)"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2127,
+			50.5164
+			]
+		},
+		"properties": {
+			"Client": "Васюк Василь Володимирович",
+			"ID_TT": "8000017437467",
+			"Address": "Київська обл., м.Ірпінь, вул. Льва Толстого 50-Б"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2209,
+			50.5451
+			]
+		},
+		"properties": {
+			"Client": "Вінниченко Зоряна Богданівна",
+			"ID_TT": "8000018761886",
+			"Address": "Київська обл., м.Ірпінь, вул. Центральна 16"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2632,
+			50.5404
+			]
+		},
+		"properties": {
+			"Client": "Гарник Тетяна Григорівна",
+			"ID_TT": "8000015972083",
+			"Address": "Київська обл., м.Ірпінь, вул. Гостомельське шоссе 22"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2365,
+			50.5070
+			]
+		},
+		"properties": {
+			"Client": "Даніловський Дмитро В'ячеславович",
+			"ID_TT": "8000018224417",
+			"Address": "Київська обл., м.Ірпінь, вул. Лісова 6-К"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2484,
+			50.5214
+			]
+		},
+		"properties": {
+			"Client": "Драгоєва Алла Анатоліївна",
+			"ID_TT": "8000018606754",
+			"Address": "Київська обл., м.Ірпінь, вул. Антонова Авіаконструктора 8-Д «Веселий Бровар»"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2215,
+			50.5117
+			]
+		},
+		"properties": {
+			"Client": "Єлек Олена Юріївна",
+			"ID_TT": "8000018486585",
+			"Address": "Київська обл., м.Ірпінь, вул. Лермонтова 6"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2493,
+			50.5308
+			]
+		},
+		"properties": {
+			"Client": "Єременко Ніна Кузьмівна",
+			"ID_TT": "8000016114270",
+			"Address": "Київська обл., м.Ірпінь, вул. Котляревського 31-Б"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2149,
+			50.5188
+			]
+		},
+		"properties": {
+			"Client": "Ісаєв Сеймур Теймур Огли",
+			"ID_TT": "8000015595923",
+			"Address": "Київська обл., м.Ірпінь, вул. Мечнікова 101-Б ,"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2268,
+			50.5135
+			]
+		},
+		"properties": {
+			"Client": "КДС ГРУП",
+			"ID_TT": "8000018772410",
+			"Address": "Київська обл., м.Ірпінь, вул. Київська 53"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2326,
+			50.5102
+			]
+		},
+		"properties": {
+			"Client": "Колосовська Аліна Юріївна",
+			"ID_TT": "8000016623460",
+			"Address": "Київська обл., м.Ірпінь, вул. Карла Маркса 2-Г"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2127,
+			50.5180
+			]
+		},
+		"properties": {
+			"Client": "Колосовська Аліна Юріївна",
+			"ID_TT": "8000016733384",
+			"Address": "Київська обл., м.Ірпінь, вул. Ново Оскольська 1-Е ."
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2330,
+			50.5358
+			]
+		},
+		"properties": {
+			"Client": "Конверс Лінкс",
+			"ID_TT": "8000018126987",
+			"Address": "Київська обл., м.Ірпінь, вул. Соборна 195"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2382,
+			50.5222
+			]
+		},
+		"properties": {
+			"Client": "Мельник Юлія Юріївна",
+			"ID_TT": "8000017886971",
+			"Address": "Київська обл., м.Ірпінь, вул. Соборна 123"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2411,
+			50.5302
+			]
+		},
+		"properties": {
+			"Client": "Образ Софія Романівна",
+			"ID_TT": "8000018818234",
+			"Address": "Київська обл., м.Ірпінь, вул. Мінеральна 7-К"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.1549,
+			50.5475
+			]
+		},
+		"properties": {
+			"Client": "Осипенко Ольга Андріївна",
+			"ID_TT": "8000018395512",
+			"Address": "Київська обл., м.Ірпінь, вул. Лісова 46 маг. Мандарин"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2444,
+			50.5034
+			]
+		},
+		"properties": {
+			"Client": "Сінергія-Газ",
+			"ID_TT": "8000018251432",
+			"Address": "Київська обл., м.Ірпінь, вул. Соборна 1/1-Л"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2445,
+			50.5043
+			]
+		},
+		"properties": {
+			"Client": "Токарська Аліса Олексіївна",
+			"ID_TT": "8000017584562",
+			"Address": "Київська обл., м.Ірпінь, вул. Соборна 1-Г"
+		}
+		},
+		{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+			30.2397,
+			50.5181
+			]
+		},
+		"properties": {
+			"Client": "Шевченко Вікторія Вікторівна",
+			"ID_TT": "8000008766946",
+			"Address": "Київська обл., м.Ірпінь, вул. 3 Інтернаціоналу 105-А ."
+		}
+		}
+	]
+}
