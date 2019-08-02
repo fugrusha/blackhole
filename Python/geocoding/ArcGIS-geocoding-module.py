@@ -11,7 +11,7 @@ import os
 input_file_path = input('Enter the name of the import Excel-file: ')
 # Find Desktop path for savint output file
 desktop = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop') 
-output_file_path = desktop + '\output'   # appends "####.xlsx" to the file name when it writes the file
+output_file_path = desktop + '\\output'   # appends "####.xlsx" to the file name when it writes the file
 
 data = pd.read_excel(input_file_path)
 

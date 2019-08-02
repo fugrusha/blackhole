@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/location.png</file>
+    <file>icons/Help-icon.png</file>
+  </qresource>
+</RCC>
