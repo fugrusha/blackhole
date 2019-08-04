@@ -1,4 +1,4 @@
-# ArcGIS Geogoder
+# ArcGIS Geocoder
 
 ## How to use it?
 
@@ -28,7 +28,7 @@ There are 4 main parts:
 * *main_geo_module.py* - module which is supposed to import excel-file, define coords and return excel-file with coords
 * *images_rc.py* - module with icons, images as resource
 
-Other additonal files:
+Other additional files:
 * *main.spec* - spec-file for pyinstaller
 * *images.qrc* - file with resources, images
 * *src2py.bat* - convert qrc to python
@@ -41,7 +41,7 @@ Other additonal files:
 You can use virtualenv or install Win10 in Virtual Box. Just install win10 and Python on it. I chose second variant.
 
 #### Using virtualenv (if you want)
-Firsly, open present work directory in cmd:
+Firstly, open present work directory in cmd:
 
 `cd C:\Users\andre\Anaconda3\Scripts\my_scripts\`
 
@@ -56,7 +56,7 @@ Run virtual environment:
 Open folder:
  `env\Scripts\activate`
 
-Then, you can install nesaccery libs via pip: install
+Then, you can install necessary libs via pip: install
 
 `pip install pyinstaller`
 
