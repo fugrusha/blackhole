@@ -5,11 +5,11 @@
 ### 1. Choose import file
 Import file requires special fields: **ID_TT**, **Client**, **Address** 
 
-![Required fields-1](http://prntscr.com/oo8gtj)
+![Required fields-1](https://github.com/fugrusha/blackhole/blob/pyqt_gui/Python/geocoding/ArcGIS%20geocoding%20with%20GUI/images/Required%20fields-1.png)
 
 or **ID_TT**, **Client**, **Region**, **City**, **Street**, **NoHouse**
 
-![Required fields-2](http://prntscr.com/oo8ibh)
+![Required fields-2](https://github.com/fugrusha/blackhole/blob/pyqt_gui/Python/geocoding/ArcGIS%20geocoding%20with%20GUI/images/Required%20fields-2.png)
 
 ### 2. Select parameters
 * Start index - defines from which row start to geocode
