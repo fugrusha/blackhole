@@ -57,7 +57,7 @@ Run virtual environment:
 Open folder:
  `env\Scripts\activate`
 
-Then, you can install necessary libs via pip: install
+Then, you can install necessary libs via pip
 
 `pip install pyinstaller, pandas, geocoder, xlrd, openpyxl, PyQt5==12.2.2`
 
