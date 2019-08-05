@@ -36,6 +36,7 @@ Other additional files:
 * *ui2py.bat* - convert ui to python
 
 ## How to create exe-file
+> Python 3.5 is a must
 
 ### Run virtual environment
 You can use virtualenv or install Win10 in Virtual Box. Just install win10 and Python on it. I chose second variant.
@@ -58,7 +59,7 @@ Open folder:
 
 Then, you can install necessary libs via pip: install
 
-`pip install pyinstaller`
+`pip install pyinstaller, pandas, geocoder, xlrd, openpyxl, PyQt5==12.2.2`
 
 
 ## Create exe-file with pyinstaller
@@ -66,6 +67,6 @@ On your virtual machine you have to install all necessary packages.
 
 Then open cmd and paste:
 
-`pyinstaller --onedir --onefile main.spec`
+`pyinstaller --onedir --onefile --clean main.spec`
 
 My specfile you can find above.
