@@ -2,11 +2,16 @@
 
 block_cipher = None
 
+added_files = [
+               ('C:\\Users\\win10_env\\AppData\\Local\\Programs\\Python\\Python35\\Lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Core.dll', '.'),
+               ('C:\\Users\\win10_env\\AppData\\Local\\Programs\\Python\\Python35\\Lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Gui.dll', '.'),
+               ('C:\\Users\\win10_env\\AppData\\Local\\Programs\\Python\\Python35\\Lib\\site-packages\\PyQt5\\Qt\\bin\\Qt5Widgets.dll', '.')
+              ]
 
 a = Analysis(['QtWindow.py', 'images_rc.py', 'main_geo_module.py', 'mydesign.py'],
-             pathex=['C:\\Users\\win10_env\\AppData\\Local\\Programs\\Python\\Python37-32\\Lib\\site-packages\\PyQt5\\Qt\\bin', 'C:\\Users\\win10_env\\Desktop\\geocoder'],
+             pathex=['C:\\Users\\win10_env\\AppData\\Local\\Programs\\Python\\Python35\\Lib\\site-packages\\PyQt5\\Qt\\bin', 'C:\\Users\\win10_env\\Desktop\\geocoder'],
              binaries=[],
-             datas=[],
+             datas=added_files,
              hiddenimports=['numpy.random.common', 'PyQt', 'numpy.random.bounded_integers', 'numpy.random.entropy'],
              hookspath=[],
              runtime_hooks=[],
